@@ -1,4 +1,4 @@
-# jQuery-validation-plugin---if-empty-allow-if-not-check-required-file-format
+# jQuery-validation-plugin- if-empty-allow-if-not-check-required-file-format
 jQuery validation plugin - if empty, allow, if not, check required file format
 
 
